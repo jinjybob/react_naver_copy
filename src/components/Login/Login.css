@@ -1,0 +1,40 @@
+#login_list{
+  margin-right: 30px;
+  list-style: none
+}
+
+#login_button{
+  width: 250px;
+  margin-top: 10px;
+  background-color: gray;
+  color: white;
+  /* font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif */
+}
+
+#login_section{
+  border: 1px solid gray;
+  border-radius: 8%;
+  width: 100%;
+  margin: auto;
+  height: 150px;
+}
+
+.login_input{
+  width: 250px;
+  height: 25px;
+  margin-bottom: 5px;
+  text-align: center;
+}
+
+#login_list li{
+  font-size: 14px;
+  margin-bottom: 10px;
+}
+
+#login_move_button{
+  font-size: 20px;
+  width: 98%;
+  background: #03c75a;
+  color:white;
+
+}
