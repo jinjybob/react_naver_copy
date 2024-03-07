@@ -25,7 +25,7 @@ export default function LoginPage() {
     Session.set("member", "good");
     navigate(-1); 
   }
-
+  
   return (
     <div id="login_section">
       <ol id="login_list">
